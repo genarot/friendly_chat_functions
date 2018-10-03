@@ -2,4 +2,4 @@
 
 ## Tecnologias
 
-'nodejs', 'firebase-cloud-functions'
+´nodejs´, ´firebase-cloud-functions´
